@@ -11,7 +11,7 @@ st.sidebar.title("sentiment analysis of tweets about us airlines")
 st.markdown("this application is streamlit dashboard to analyze the sentiment of twitter Ã°ÂÂÂ¦")
 st.sidebar.markdown("this application is streamlit dashboard to analyze the sentiment of twitter Ã°ÂÂÂ¦")
 
-
+#
 data_url=("C:\Users\USER\PycharmProjects\Sentiment Analysis\tweets.csv")
 st.cache(persist=1)
 def load_data():
